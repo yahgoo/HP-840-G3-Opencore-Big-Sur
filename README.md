@@ -2,4 +2,4 @@
 * Opencore EFI for HP 840 G3 running Big Sur
 * Credits OSXLatitude - Jake Lo
 
-![Screenshot](https://github.com/yahgoo/HP840G3-Opencore-BigSur/blob/main/1600x900%20Screenshot%202020-11-05%20at%202.47.35%20PM.png)
+![Screenshot](https://github.com/yahgoo/HP-840-G3-Opencore-Big-Sur/blob/main/1660x900%20Screenshot%202020-11-13%20at%2011.32.11%20AM.png)
