@@ -1,4 +1,4 @@
-# HP 840 G3 Opencore Big
+# Hackintosh HP 840 G3 Opencore Big Sur
 * Opencore EFI for HP 840 G3 running Big Sur
 * Credits OSXLatitude - Jake Lo
 
